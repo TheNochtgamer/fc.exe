@@ -1,0 +1,9 @@
+{
+    "ver": "1.0.0",
+    "filename": "FC.exe",
+    "filedesc": "feliz cumpleaños",
+    "target": "latest-win-x64",
+    "iconfile": "fc.ico",
+    "productname": "fc.exe",
+    "copyright": "TheNochtgamer"
+}

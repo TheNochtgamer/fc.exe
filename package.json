@@ -1,0 +1,20 @@
+{
+  "name": "fc.exe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-cmd": "^5.0.0"
+  },
+  "devDependencies": {
+    "@angablue/exe": "^1.2.0"
+  }
+}
